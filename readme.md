@@ -15,4 +15,6 @@ Features:
 
 [View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm) - not Full Screen!
 
-https://github.com/BertyBasset/SimpleOsMap/blob/main/ScreenShot.png
+
+![Screenshot](https://github.com/BertyBasset/SimpleOsMap/blob/main/ScreenShot.png)
+
