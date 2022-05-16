@@ -1,0 +1,3406 @@
+﻿{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Waitrose Bishop's Stortford",
+      "lat": "51.87298",
+      "lon": "0.15989",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/101.html>Waitrose Bishop's Stortford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 2,
+      "name": "Waitrose Buckhurst Hill",
+      "lat": "51.62539",
+      "lon": "0.04511",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/102.html>Waitrose Buckhurst Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 3,
+      "name": "Waitrose Epsom",
+      "lat": "51.33243",
+      "lon": "-0.26929",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/104.html>Waitrose Epsom</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 4,
+      "name": "Waitrose Gillingham",
+      "lat": "51.03582",
+      "lon": "-2.27591",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/105.html>Waitrose Gillingham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 5,
+      "name": "Waitrose St Ives",
+      "lat": "52.32231",
+      "lon": "-0.06883",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/108.html>Waitrose St Ives</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 6,
+      "name": "Waitrose Longfield",
+      "lat": "51.3964",
+      "lon": "0.30062",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/109.html>Waitrose Longfield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 7,
+      "name": "Waitrose Crowborough",
+      "lat": "51.05834",
+      "lon": "0.16187",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/110.html>Waitrose Crowborough</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 8,
+      "name": "Waitrose Holloway Road",
+      "lat": "51.55586",
+      "lon": "-0.11583",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/112.html>Waitrose Holloway Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 9,
+      "name": "Waitrose Brighton",
+      "lat": "50.82495",
+      "lon": "-0.15124",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/114.html>Waitrose Brighton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 10,
+      "name": "Waitrose Dibden",
+      "lat": "50.87014",
+      "lon": "-1.39854",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/118.html>Waitrose Dibden</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 11,
+      "name": "Waitrose Brent Cross",
+      "lat": "51.57618",
+      "lon": "-0.2245",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/119.html>Waitrose Brent Cross</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 12,
+      "name": "Waitrose Dorchester",
+      "lat": "50.71434",
+      "lon": "-2.43618",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/120.html>Waitrose Dorchester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 13,
+      "name": "Waitrose Esher",
+      "lat": "51.36812",
+      "lon": "-0.36694",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/121.html>Waitrose Esher</a>",
+      "isRegion": false,
+      "score": "`"
+    },
+    {
+      "id": 14,
+      "name": "Waitrose Hall Green",
+      "lat": "52.42828",
+      "lon": "-1.84173",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/122.html>Waitrose Hall Green</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 15,
+      "name": "Waitrose Burgess Hill",
+      "lat": "50.95506",
+      "lon": "-0.13116",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/123.html>Waitrose Burgess Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 16,
+      "name": "Waitrose Whetstone",
+      "lat": "51.63128",
+      "lon": "-0.17554",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/124.html>Waitrose Whetstone</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 17,
+      "name": "Waitrose Temple Fortune",
+      "lat": "51.58299",
+      "lon": "-0.19981",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/125.html>Waitrose Temple Fortune</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 18,
+      "name": "Waitrose Coulsdon",
+      "lat": "51.3221",
+      "lon": "-0.1375",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/129.html>Waitrose Coulsdon</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 19,
+      "name": "Waitrose New Malden",
+      "lat": "51.40235",
+      "lon": "-0.25592",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/131.html>Waitrose New Malden</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 20,
+      "name": "Waitrose Saffron Walden",
+      "lat": "52.02306",
+      "lon": "0.24195",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/135.html>Waitrose Saffron Walden</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 21,
+      "name": "Waitrose Allington Park",
+      "lat": "51.28618",
+      "lon": "0.49749",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/137.html>Waitrose Allington Park</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 22,
+      "name": "Waitrose Bury St Edmunds",
+      "lat": "52.24411",
+      "lon": "0.7081",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/140.html>Waitrose Bury St Edmunds</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 23,
+      "name": "Waitrose Witney",
+      "lat": "51.78482",
+      "lon": "-1.48343",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/142.html>Waitrose Witney</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 24,
+      "name": "Waitrose Harrow Weald",
+      "lat": "51.60535",
+      "lon": "-0.33957",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/143.html>Waitrose Harrow Weald</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 25,
+      "name": "Waitrose Kingsthorpe",
+      "lat": "52.2625",
+      "lon": "-0.90086",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/148.html>Waitrose Kingsthorpe</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 26,
+      "name": "Waitrose East Sheen",
+      "lat": "51.46463",
+      "lon": "-0.26883",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/149.html>Waitrose East Sheen</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 27,
+      "name": "Waitrose Four Oaks",
+      "lat": "52.58766",
+      "lon": "-1.83138",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/150.html>Waitrose Four Oaks</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 28,
+      "name": "Waitrose Westbury Park",
+      "lat": "51.48039",
+      "lon": "-2.61223",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/151.html>Waitrose Westbury Park</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 29,
+      "name": "Waitrose Gosport",
+      "lat": "50.79265",
+      "lon": "-1.13528",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/152.html>Waitrose Gosport</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 30,
+      "name": "Waitrose Wantage",
+      "lat": "51.58884",
+      "lon": "-1.4249",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/153.html>Waitrose Wantage</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 31,
+      "name": "Waitrose Leighton Buzzard",
+      "lat": "51.91674",
+      "lon": "-0.66351",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/154.html>Waitrose Leighton Buzzard</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 32,
+      "name": "Waitrose Stourbridge",
+      "lat": "52.45576",
+      "lon": "-2.14642",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/155.html>Waitrose Stourbridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 33,
+      "name": "Waitrose Daventry",
+      "lat": "52.25731",
+      "lon": "-1.16149",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/156.html>Waitrose Daventry</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 34,
+      "name": "Waitrose Weybridge",
+      "lat": "51.37362",
+      "lon": "-0.45686",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/157.html>Waitrose Weybridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 35,
+      "name": "Waitrose Bromley",
+      "lat": "51.42109",
+      "lon": "0.02109",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/158.html>Waitrose Bromley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 36,
+      "name": "Waitrose Ramsgate",
+      "lat": "51.33269",
+      "lon": "1.41699",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/160.html>Waitrose Ramsgate</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 37,
+      "name": "Waitrose Winton",
+      "lat": "50.74069",
+      "lon": "-1.87904",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/161.html>Waitrose Winton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 38,
+      "name": "Waitrose Marlborough",
+      "lat": "51.42079",
+      "lon": "-1.73033",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/164.html>Waitrose Marlborough</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 39,
+      "name": "Waitrose Green Street Green",
+      "lat": "51.35404",
+      "lon": "0.09009",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/165.html>Waitrose Green Street Green</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 40,
+      "name": "Waitrose St Albans ",
+      "lat": "51.74648",
+      "lon": "-0.36043",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/166.html>Waitrose St Albans </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 41,
+      "name": "Waitrose Stevenage",
+      "lat": "51.91126",
+      "lon": "-0.20845",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/167.html>Waitrose Stevenage</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 42,
+      "name": "Waitrose Andover",
+      "lat": "51.2085",
+      "lon": "-1.48122",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/168.html>Waitrose Andover</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 43,
+      "name": "Waitrose Southsea",
+      "lat": "50.78589",
+      "lon": "-1.08697",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/170.html>Waitrose Southsea</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 44,
+      "name": "Waitrose Havant",
+      "lat": "50.85226",
+      "lon": "-0.9811",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/171.html>Waitrose Havant</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 45,
+      "name": "Waitrose Kings Road",
+      "lat": "51.48841",
+      "lon": "-0.16699",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/173.html>Waitrose Kings Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 46,
+      "name": "Waitrose John Barnes",
+      "lat": "51.54619",
+      "lon": "-0.17963",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/174.html>Waitrose John Barnes</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 47,
+      "name": "Waitrose Cobham",
+      "lat": "51.33019",
+      "lon": "-0.41448",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/176.html>Waitrose Cobham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 48,
+      "name": "Waitrose Beaconsfield",
+      "lat": "51.61252",
+      "lon": "-0.64774",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/177.html>Waitrose Beaconsfield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 49,
+      "name": "Waitrose Caterham",
+      "lat": "51.28193",
+      "lon": "-0.07786",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/178.html>Waitrose Caterham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 50,
+      "name": "Waitrose Enfield",
+      "lat": "51.65127",
+      "lon": "-0.08345",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/179.html>Waitrose Enfield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 51,
+      "name": "Waitrose Woodley",
+      "lat": "51.45181",
+      "lon": "-0.90548",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/180.html>Waitrose Woodley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 52,
+      "name": "Waitrose Goldsworth Park",
+      "lat": "51.31884",
+      "lon": "-0.59069",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/181.html>Waitrose Goldsworth Park</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 53,
+      "name": "Waitrose Sevenoaks",
+      "lat": "51.26981",
+      "lon": "0.19339",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/182.html>Waitrose Sevenoaks</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 54,
+      "name": "Waitrose Harpenden",
+      "lat": "51.81569",
+      "lon": "-0.35712",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/183.html>Waitrose Harpenden</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 55,
+      "name": "Waitrose Caversham",
+      "lat": "51.46725",
+      "lon": "-0.97363",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/184.html>Waitrose Caversham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 56,
+      "name": "Waitrose St Neots",
+      "lat": "52.22865",
+      "lon": "-0.27192",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/185.html>Waitrose St Neots</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 57,
+      "name": "Waitrose Northwood",
+      "lat": "51.61138",
+      "lon": "-0.4246",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/186.html>Waitrose Northwood</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 58,
+      "name": "Waitrose Richmond",
+      "lat": "51.46235",
+      "lon": "-0.3014",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/188.html>Waitrose Richmond</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 59,
+      "name": "Waitrose West Byfleet",
+      "lat": "51.3376",
+      "lon": "-0.5052",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/189.html>Waitrose West Byfleet</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 60,
+      "name": "Waitrose Sunningdale",
+      "lat": "51.39158",
+      "lon": "-0.63366",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/190.html>Waitrose Sunningdale</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 61,
+      "name": "Waitrose Barnet",
+      "lat": "51.65531",
+      "lon": "-0.20302",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/191.html>Waitrose Barnet</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 62,
+      "name": "Waitrose Chesham",
+      "lat": "51.70701",
+      "lon": "-0.61099",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/192.html>Waitrose Chesham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 63,
+      "name": "Waitrose Bath",
+      "lat": "51.38327",
+      "lon": "-2.35876",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/193.html>Waitrose Bath</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 64,
+      "name": "Waitrose Maidenhead",
+      "lat": "51.52313",
+      "lon": "-0.71453",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/194.html>Waitrose Maidenhead</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 65,
+      "name": "Waitrose Kingston",
+      "lat": "51.41144",
+      "lon": "-0.3063",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/195.html>Waitrose Kingston</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 66,
+      "name": "Waitrose Fleet",
+      "lat": "51.28078",
+      "lon": "-0.8417",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/196.html>Waitrose Fleet</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 67,
+      "name": "Waitrose Ruislip",
+      "lat": "51.57137",
+      "lon": "-0.423",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/197.html>Waitrose Ruislip</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 68,
+      "name": "Waitrose Yateley",
+      "lat": "51.33899",
+      "lon": "-0.84634",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/198.html>Waitrose Yateley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 69,
+      "name": "Waitrose Tenterden",
+      "lat": "51.06836",
+      "lon": "0.68861",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/201.html>Waitrose Tenterden</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 70,
+      "name": "Waitrose Banstead",
+      "lat": "51.32348",
+      "lon": "-0.19892",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/202.html>Waitrose Banstead</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 71,
+      "name": "Waitrose Ringwood",
+      "lat": "50.84729",
+      "lon": "-1.79344",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/203.html>Waitrose Ringwood</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 72,
+      "name": "Waitrose Welwyn Garden City",
+      "lat": "51.8038",
+      "lon": "-0.2045",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/204.html>Waitrose Welwyn Garden City</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 73,
+      "name": "Waitrose Ely",
+      "lat": "52.40092",
+      "lon": "0.26876",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/205.html>Waitrose Ely</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 74,
+      "name": "Waitrose Thame",
+      "lat": "51.74955",
+      "lon": "-0.97802",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/206.html>Waitrose Thame</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 75,
+      "name": "Waitrose Bloomsbury",
+      "lat": "51.5243",
+      "lon": "-0.1235",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/207.html>Waitrose Bloomsbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 76,
+      "name": "Waitrose Chichester",
+      "lat": "50.83232",
+      "lon": "-0.78391",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/208.html>Waitrose Chichester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 77,
+      "name": "Waitrose Petersfield",
+      "lat": "51.00434",
+      "lon": "-0.93664",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/209.html>Waitrose Petersfield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 78,
+      "name": "Waitrose Stroud",
+      "lat": "51.74137",
+      "lon": "-2.2127",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/210.html>Waitrose Stroud</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 79,
+      "name": "Waitrose Abingdon",
+      "lat": "51.67208",
+      "lon": "-1.27967",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/211.html>Waitrose Abingdon</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 80,
+      "name": "Waitrose Beckenham ",
+      "lat": "51.41221",
+      "lon": "-0.02401",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/212.html>Waitrose Beckenham </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 81,
+      "name": "Waitrose Southend-on-Sea",
+      "lat": "51.55587",
+      "lon": "0.72458",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/213.html>Waitrose Southend-on-Sea</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 82,
+      "name": "Waitrose Henley-on-Thames",
+      "lat": "51.53857",
+      "lon": "-0.905",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/214.html>Waitrose Henley-on-Thames</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 83,
+      "name": "Waitrose Finchley",
+      "lat": "51.61139",
+      "lon": "-0.17982",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/215.html>Waitrose Finchley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 84,
+      "name": "Waitrose Godalming",
+      "lat": "51.18649",
+      "lon": "-0.60933",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/216.html>Waitrose Godalming</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 85,
+      "name": "Waitrose Monmouth",
+      "lat": "51.80987",
+      "lon": "-2.71847",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/217.html>Waitrose Monmouth</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 86,
+      "name": "Waitrose Reading",
+      "lat": "51.46573",
+      "lon": "-1.01912",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/218.html>Waitrose Reading</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 87,
+      "name": "Waitrose South Harrow",
+      "lat": "51.56681",
+      "lon": "-0.35117",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/219.html>Waitrose South Harrow</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 88,
+      "name": "Waitrose Cirencester",
+      "lat": "51.71344",
+      "lon": "-1.97139",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/220.html>Waitrose Cirencester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 89,
+      "name": "Waitrose Wokingham",
+      "lat": "51.41167",
+      "lon": "-0.83357",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/221.html>Waitrose Wokingham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 90,
+      "name": "Waitrose Norwich",
+      "lat": "52.60794",
+      "lon": "1.25119",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/222.html>Waitrose Norwich</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 91,
+      "name": "Waitrose Berkhamsted",
+      "lat": "51.76198",
+      "lon": "-0.56692",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/223.html>Waitrose Berkhamsted</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 92,
+      "name": "Waitrose Bromley South",
+      "lat": "51.39901",
+      "lon": "0.01811",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/224.html>Waitrose Bromley South</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 93,
+      "name": "Waitrose Putney",
+      "lat": "51.4639",
+      "lon": "-0.21626",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/225.html>Waitrose Putney</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 94,
+      "name": "Waitrose Salisbury",
+      "lat": "51.07606",
+      "lon": "-1.80184",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/226.html>Waitrose Salisbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 95,
+      "name": "Waitrose Newark",
+      "lat": "53.07985",
+      "lon": "-0.81209",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/227.html>Waitrose Newark</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 96,
+      "name": "Waitrose Billericay",
+      "lat": "51.62398",
+      "lon": "0.41659",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/229.html>Waitrose Billericay</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 97,
+      "name": "Waitrose Gloucester Road",
+      "lat": "51.4945",
+      "lon": "-0.18352",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/230.html>Waitrose Gloucester Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 98,
+      "name": "Waitrose South Woodford",
+      "lat": "51.59528",
+      "lon": "0.02248",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/231.html>Waitrose South Woodford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 99,
+      "name": "Waitrose Surbiton",
+      "lat": "51.39371",
+      "lon": "-0.30455",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/232.html>Waitrose Surbiton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 100,
+      "name": "Waitrose Horley",
+      "lat": "51.1713",
+      "lon": "-0.16276",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/233.html>Waitrose Horley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 101,
+      "name": "Waitrose Okehampton",
+      "lat": "50.74045",
+      "lon": "-4.00409",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/234.html>Waitrose Okehampton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 102,
+      "name": "Waitrose Marylebone",
+      "lat": "51.51944",
+      "lon": "-0.1521",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/236.html>Waitrose Marylebone</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 103,
+      "name": "Waitrose Great Malvern",
+      "lat": "52.11259",
+      "lon": "-2.3284",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/237.html>Waitrose Great Malvern</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 104,
+      "name": "Waitrose Twyford",
+      "lat": "51.47788",
+      "lon": "-0.86634",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/238.html>Waitrose Twyford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 105,
+      "name": "Waitrose Waterlooville",
+      "lat": "50.87939",
+      "lon": "-1.03049",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/239.html>Waitrose Waterlooville</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 106,
+      "name": "Waitrose Biggin Hill",
+      "lat": "51.3083",
+      "lon": "0.0386",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/240.html>Waitrose Biggin Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 107,
+      "name": "Waitrose Evesham",
+      "lat": "52.09232",
+      "lon": "-1.95106",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/303.html>Waitrose Evesham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 108,
+      "name": "Waitrose Glasgow Byres Road",
+      "lat": "55.87779",
+      "lon": "-4.29149",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/308.html>Waitrose Glasgow Byres Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 109,
+      "name": "Waitrose Weston-Super-Mare",
+      "lat": "51.3401",
+      "lon": "-2.95823",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/309.html>Waitrose Weston-Super-Mare</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 110,
+      "name": "Waitrose York",
+      "lat": "53.95588",
+      "lon": "-1.06992",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/311.html>Waitrose York</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 111,
+      "name": "Waitrose Poynton",
+      "lat": "53.34895",
+      "lon": "-2.11971",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/312.html>Waitrose Poynton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 112,
+      "name": "Waitrose East Cowes",
+      "lat": "50.75859",
+      "lon": "-1.28874",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/313.html>Waitrose East Cowes</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 113,
+      "name": "Waitrose Wimbledon",
+      "lat": "51.42307",
+      "lon": "-0.20432",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/314.html>Waitrose Wimbledon</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 114,
+      "name": "Waitrose Wellington",
+      "lat": "50.97933",
+      "lon": "-3.22558",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/315.html>Waitrose Wellington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 115,
+      "name": "Waitrose Ashbourne",
+      "lat": "53.01661",
+      "lon": "-1.73072",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/316.html>Waitrose Ashbourne</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 116,
+      "name": "Waitrose Storrington",
+      "lat": "50.91816",
+      "lon": "-0.45194",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/317.html>Waitrose Storrington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 117,
+      "name": "Waitrose Menai Bridge",
+      "lat": "53.22393",
+      "lon": "-4.16636",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/318.html>Waitrose Menai Bridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 118,
+      "name": "Waitrose Melksham",
+      "lat": "51.37554",
+      "lon": "-2.13876",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/319.html>Waitrose Melksham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 119,
+      "name": "Waitrose Knutsford",
+      "lat": "53.30405",
+      "lon": "-2.37546",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/326.html>Waitrose Knutsford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 120,
+      "name": "Waitrose Newton Mearns",
+      "lat": "55.78316",
+      "lon": "-4.34896",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/327.html>Waitrose Newton Mearns</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 121,
+      "name": "Waitrose Stratford City",
+      "lat": "51.54434",
+      "lon": "-0.00636",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/328.html>Waitrose Stratford City</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 122,
+      "name": "Waitrose Alton",
+      "lat": "51.15253",
+      "lon": "-0.96797",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/329.html>Waitrose Alton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 123,
+      "name": "Waitrose St Saviour Jersey",
+      "lat": "49.18024",
+      "lon": "-2.08457",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/332.html>Waitrose St Saviour Jersey</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 124,
+      "name": "Waitrose Rohais Guernsey",
+      "lat": "49.46093",
+      "lon": "-2.55944",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/333.html>Waitrose Rohais Guernsey</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 125,
+      "name": "Waitrose St Helier Jersey",
+      "lat": "49.19621",
+      "lon": "-2.10302",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/334.html>Waitrose St Helier Jersey</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 126,
+      "name": "Waitrose Admiral Park Guernsey",
+      "lat": "49.46706",
+      "lon": "-2.53779",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/335.html>Waitrose Admiral Park Guernsey</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 127,
+      "name": "Waitrose Red Houses Jersey",
+      "lat": "49.19207",
+      "lon": "-2.20121",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/336.html>Waitrose Red Houses Jersey</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 128,
+      "name": "Waitrose Mountsorrel ",
+      "lat": "52.7356",
+      "lon": "-1.15194",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/403.html>Waitrose Mountsorrel </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 129,
+      "name": "Waitrose Corley North Services",
+      "lat": "52.47185",
+      "lon": "-1.5467",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/409.html>Waitrose Corley North Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 130,
+      "name": "Waitrose Warwick North Services",
+      "lat": "52.21649",
+      "lon": "-1.50541",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/410.html>Waitrose Warwick North Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 131,
+      "name": "Waitrose Membury West Services",
+      "lat": "51.48117",
+      "lon": "-1.55968",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/411.html>Waitrose Membury West Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 132,
+      "name": "Waitrose Fleet South Services",
+      "lat": "51.29466",
+      "lon": "-0.85654",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/423.html>Waitrose Fleet South Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 133,
+      "name": "Waitrose Hopwood Park Services",
+      "lat": "52.36342",
+      "lon": "-1.94784",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/424.html>Waitrose Hopwood Park Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 134,
+      "name": "Waitrose Oxford Services",
+      "lat": "51.738",
+      "lon": "-1.09715",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/448.html>Waitrose Oxford Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 135,
+      "name": "Waitrose South Mimms Services",
+      "lat": "51.68737",
+      "lon": "-0.22423",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/449.html>Waitrose South Mimms Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 136,
+      "name": "Waitrose Colchester",
+      "lat": "51.89314",
+      "lon": "0.91875",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/455.html>Waitrose Colchester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 137,
+      "name": "Waitrose Oxford Street JL Foodhall",
+      "lat": "51.5153",
+      "lon": "-0.14497",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/456.html>Waitrose Oxford Street JL Foodhall</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 138,
+      "name": "Waitrose Cardiff Pontprennau",
+      "lat": "51.53174",
+      "lon": "-3.13927",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/457.html>Waitrose Cardiff Pontprennau</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 139,
+      "name": "Waitrose Crewkerne",
+      "lat": "50.88265",
+      "lon": "-2.79462",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/458.html>Waitrose Crewkerne</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 140,
+      "name": "Waitrose Gerrards Cross",
+      "lat": "51.5881",
+      "lon": "-0.55083",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/459.html>Waitrose Gerrards Cross</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 141,
+      "name": "Waitrose Kenilworth",
+      "lat": "52.34162",
+      "lon": "-1.57538",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/460.html>Waitrose Kenilworth</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 142,
+      "name": "Waitrose Eldon Square",
+      "lat": "54.97444",
+      "lon": "-1.61675",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/461.html>Waitrose Eldon Square</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 143,
+      "name": "Waitrose Westfield",
+      "lat": "51.50628",
+      "lon": "-0.21907",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/462.html>Waitrose Westfield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 144,
+      "name": "Waitrose Winchester",
+      "lat": "51.07425",
+      "lon": "-1.33733",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/463.html>Waitrose Winchester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 145,
+      "name": "Waitrose Marlow, Chapel Street",
+      "lat": "51.57334",
+      "lon": "-0.77518",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/465.html>Waitrose Marlow, Chapel Street</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 146,
+      "name": "Waitrose Alcester",
+      "lat": "52.21646",
+      "lon": "-1.87016",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/474.html>Waitrose Alcester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 147,
+      "name": "Waitrose Bridport",
+      "lat": "50.7339",
+      "lon": "-2.75982",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/475.html>Waitrose Bridport</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 148,
+      "name": "Waitrose Caldicot",
+      "lat": "51.59039",
+      "lon": "-2.75252",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/476.html>Waitrose Caldicot</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 149,
+      "name": "Waitrose Croydon",
+      "lat": "51.37472",
+      "lon": "-0.09621",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/477.html>Waitrose Croydon</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 150,
+      "name": "Waitrose Haslemere",
+      "lat": "51.08904",
+      "lon": "-0.71117",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/478.html>Waitrose Haslemere</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 151,
+      "name": "Waitrose Headington",
+      "lat": "51.76088",
+      "lon": "-1.21117",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/479.html>Waitrose Headington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 152,
+      "name": "Waitrose Holsworthy",
+      "lat": "50.80769",
+      "lon": "-4.35422",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/480.html>Waitrose Holsworthy</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 153,
+      "name": "Waitrose Leigh on Sea",
+      "lat": "51.54864",
+      "lon": "0.65428",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/481.html>Waitrose Leigh on Sea</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 154,
+      "name": "Waitrose Ponteland",
+      "lat": "55.04886",
+      "lon": "-1.74431",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/482.html>Waitrose Ponteland</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 155,
+      "name": "Waitrose Saxmundham",
+      "lat": "52.21404",
+      "lon": "1.49263",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/483.html>Waitrose Saxmundham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 156,
+      "name": "Waitrose Stamford",
+      "lat": "52.6525",
+      "lon": "-0.48526",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/484.html>Waitrose Stamford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 157,
+      "name": "Waitrose Torquay",
+      "lat": "50.47747",
+      "lon": "-3.52807",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/485.html>Waitrose Torquay</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 158,
+      "name": "Waitrose Upminster",
+      "lat": "51.55638",
+      "lon": "0.25272",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/486.html>Waitrose Upminster</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 159,
+      "name": "Waitrose Lutterworth",
+      "lat": "52.45791",
+      "lon": "-1.19953",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/487.html>Waitrose Lutterworth</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 160,
+      "name": "Waitrose Clerkenwell",
+      "lat": "51.52436",
+      "lon": "-0.10316",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/492.html>Waitrose Clerkenwell</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 161,
+      "name": "Waitrose Bluewater Foodhall",
+      "lat": "51.44053",
+      "lon": "0.27157",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/493.html>Waitrose Bluewater Foodhall</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 162,
+      "name": "Waitrose Altrincham",
+      "lat": "53.40541",
+      "lon": "-2.36511",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/494.html>Waitrose Altrincham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 163,
+      "name": "Waitrose Telford Services",
+      "lat": "52.67743",
+      "lon": "-2.4021",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/503.html>Waitrose Telford Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 164,
+      "name": "Waitrose Swindon",
+      "lat": "51.5448",
+      "lon": "-1.80723",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/504.html>Waitrose Swindon</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 165,
+      "name": "Waitrose Uckfield",
+      "lat": "50.96936",
+      "lon": "0.0962",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/506.html>Waitrose Uckfield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 166,
+      "name": "Waitrose Hereford",
+      "lat": "52.0595",
+      "lon": "-2.71832",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/507.html>Waitrose Hereford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 167,
+      "name": "Waitrose Malmesbury ",
+      "lat": "51.58052",
+      "lon": "-2.0932",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/511.html>Waitrose Malmesbury </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 168,
+      "name": "Waitrose Bagshot",
+      "lat": "51.35549",
+      "lon": "-0.69943",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/514.html>Waitrose Bagshot</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 169,
+      "name": "Waitrose Nailsea",
+      "lat": "51.43352",
+      "lon": "-2.75801",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/515.html>Waitrose Nailsea</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 170,
+      "name": "Waitrose Parsons Green",
+      "lat": "51.47432",
+      "lon": "-0.20125",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/516.html>Waitrose Parsons Green</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 171,
+      "name": "Waitrose Egham  ",
+      "lat": "51.43188",
+      "lon": "-0.54563",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/519.html>Waitrose Egham  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 172,
+      "name": "Waitrose Jesmond",
+      "lat": "54.99166",
+      "lon": "-1.60431",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/520.html>Waitrose Jesmond</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 173,
+      "name": "Waitrose Enfield Chase",
+      "lat": "51.65342",
+      "lon": "-0.09201",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/521.html>Waitrose Enfield Chase</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 174,
+      "name": "Waitrose Chippenham",
+      "lat": "51.45845",
+      "lon": "-2.11689",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/523.html>Waitrose Chippenham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 175,
+      "name": "Waitrose West Hampstead",
+      "lat": "51.55151",
+      "lon": "-0.1928",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/524.html>Waitrose West Hampstead</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 176,
+      "name": "Waitrose Shrewsbury",
+      "lat": "52.70845",
+      "lon": "-2.7529",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/525.html>Waitrose Shrewsbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 177,
+      "name": "Waitrose Dorking  ",
+      "lat": "51.231",
+      "lon": "-0.33431",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/527.html>Waitrose Dorking  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 178,
+      "name": "Waitrose Wimbledon Hill",
+      "lat": "51.42087",
+      "lon": "-0.20754",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/528.html>Waitrose Wimbledon Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 179,
+      "name": "Waitrose Hawkhurst",
+      "lat": "51.047",
+      "lon": "0.51149",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/529.html>Waitrose Hawkhurst</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 180,
+      "name": "Waitrose Fulham Palace Road",
+      "lat": "51.48423",
+      "lon": "-0.21955",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/530.html>Waitrose Fulham Palace Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 181,
+      "name": "Waitrose Peterborough  ",
+      "lat": "52.576",
+      "lon": "-0.24941",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/531.html>Waitrose Peterborough  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 182,
+      "name": "Waitrose Canterbury",
+      "lat": "51.27579",
+      "lon": "1.08547",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/533.html>Waitrose Canterbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 183,
+      "name": "Waitrose Dome Roundabout",
+      "lat": "51.68113",
+      "lon": "-0.39463",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/534.html>Waitrose Dome Roundabout</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 184,
+      "name": "Waitrose Kensington Gardens",
+      "lat": "51.51065",
+      "lon": "-0.18408",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/535.html>Waitrose Kensington Gardens</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 185,
+      "name": "Waitrose Corley South Services  ",
+      "lat": "52.47193",
+      "lon": "-1.54679",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/537.html>Waitrose Corley South Services  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 186,
+      "name": "Waitrose Addlestone",
+      "lat": "51.37063",
+      "lon": "-0.49072",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/542.html>Waitrose Addlestone</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 187,
+      "name": "Waitrose Cambridge, Fitzroy Street",
+      "lat": "52.20661",
+      "lon": "0.13049",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/552.html>Waitrose Cambridge, Fitzroy Street</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 188,
+      "name": "Waitrose Teignmouth",
+      "lat": "50.54686",
+      "lon": "-3.49491",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/554.html>Waitrose Teignmouth</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 189,
+      "name": "Waitrose Edenbridge",
+      "lat": "51.19504",
+      "lon": "0.06366",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/556.html>Waitrose Edenbridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 190,
+      "name": "Waitrose Keynsham ",
+      "lat": "51.41409",
+      "lon": "-2.48409",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/557.html>Waitrose Keynsham </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 191,
+      "name": "Waitrose Cheam",
+      "lat": "51.35913",
+      "lon": "-0.2165",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/559.html>Waitrose Cheam</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 192,
+      "name": "Waitrose Alderley Edge ",
+      "lat": "53.30269",
+      "lon": "-2.23694",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/560.html>Waitrose Alderley Edge </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 193,
+      "name": "Waitrose Locks Heath  ",
+      "lat": "50.86367",
+      "lon": "-1.27413",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/563.html>Waitrose Locks Heath  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 194,
+      "name": "Waitrose Burgh Heath",
+      "lat": "51.30692",
+      "lon": "-0.21798",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/567.html>Waitrose Burgh Heath</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 195,
+      "name": "Waitrose Petts Wood ",
+      "lat": "51.38767",
+      "lon": "0.07385",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/568.html>Waitrose Petts Wood </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 196,
+      "name": "Waitrose Walbrook ",
+      "lat": "51.51199",
+      "lon": "-0.09013",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/573.html>Waitrose Walbrook </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 197,
+      "name": "Waitrose Broxbourne ",
+      "lat": "51.73796",
+      "lon": "-0.0222",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/575.html>Waitrose Broxbourne </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 198,
+      "name": "Waitrose Amersham",
+      "lat": "51.67757",
+      "lon": "-0.60628",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/578.html>Waitrose Amersham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 199,
+      "name": "Waitrose Horsham   ",
+      "lat": "51.06395",
+      "lon": "-0.33529",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/580.html>Waitrose Horsham   </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 200,
+      "name": "Waitrose Oxford Botley Road",
+      "lat": "51.75279",
+      "lon": "-1.28046",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/581.html>Waitrose Oxford Botley Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 201,
+      "name": "Waitrose Basingstoke  ",
+      "lat": "51.26796",
+      "lon": "-1.08384",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/582.html>Waitrose Basingstoke  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 202,
+      "name": "Waitrose Old Brompton Road",
+      "lat": "51.49199",
+      "lon": "-0.17922",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/583.html>Waitrose Old Brompton Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 203,
+      "name": "Waitrose Hazlemere ",
+      "lat": "51.65168",
+      "lon": "-0.7121",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/584.html>Waitrose Hazlemere </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 204,
+      "name": "Waitrose Ealing",
+      "lat": "51.51659",
+      "lon": "-0.29106",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/586.html>Waitrose Ealing</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 205,
+      "name": "Waitrose West Kensington Waitrose",
+      "lat": "51.4886",
+      "lon": "-0.20522",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/587.html>Waitrose West Kensington Waitrose</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 206,
+      "name": "Waitrose Guildford",
+      "lat": "51.23898",
+      "lon": "-0.57461",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/589.html>Waitrose Guildford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 207,
+      "name": "Waitrose Kings Cross, Granary Square",
+      "lat": "51.53606",
+      "lon": "-0.12355",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/590.html>Waitrose Kings Cross, Granary Square</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 208,
+      "name": "Waitrose Wollaton  ",
+      "lat": "52.95551",
+      "lon": "-1.22861",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/591.html>Waitrose Wollaton  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 209,
+      "name": "Waitrose Wollaton  ",
+      "lat": "52.95551",
+      "lon": "-1.22861",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/593.html>Waitrose Wollaton  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 210,
+      "name": "Waitrose Heathfield ",
+      "lat": "50.96805",
+      "lon": "0.25342",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/595.html>Waitrose Heathfield </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 211,
+      "name": "Waitrose Rustington",
+      "lat": "50.80978",
+      "lon": "-0.505",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/596.html>Waitrose Rustington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 212,
+      "name": "Waitrose Nine Elms ",
+      "lat": "51.4826",
+      "lon": "-0.1352",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/598.html>Waitrose Nine Elms </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 213,
+      "name": "Waitrose Uttoxeter",
+      "lat": "52.89687",
+      "lon": "-1.86197",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/599.html>Waitrose Uttoxeter</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 214,
+      "name": "Waitrose High Holborn",
+      "lat": "51.51737",
+      "lon": "-0.11876",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/601.html>Waitrose High Holborn</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 215,
+      "name": "Waitrose Sherborne",
+      "lat": "50.94963",
+      "lon": "-2.51704",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/604.html>Waitrose Sherborne</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 216,
+      "name": "Waitrose Hove",
+      "lat": "50.8435",
+      "lon": "-0.17681",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/605.html>Waitrose Hove</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 217,
+      "name": "Waitrose High Wycombe",
+      "lat": "51.61503",
+      "lon": "-0.76042",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/607.html>Waitrose High Wycombe</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 218,
+      "name": "Waitrose Hampton",
+      "lat": "51.41561",
+      "lon": "-0.37364",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/612.html>Waitrose Hampton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 219,
+      "name": "Waitrose Leicester Forest East South Services",
+      "lat": "52.61801",
+      "lon": "-1.20802",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/613.html>Waitrose Leicester Forest East South Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 220,
+      "name": "Waitrose Pimlico ",
+      "lat": "51.49244",
+      "lon": "-0.13946",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/614.html>Waitrose Pimlico </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 221,
+      "name": "Waitrose Clapham Common",
+      "lat": "51.46194",
+      "lon": "-0.13924",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/616.html>Waitrose Clapham Common</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 222,
+      "name": "Waitrose King's Cross train station ",
+      "lat": "51.53219",
+      "lon": "-0.12429",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/619.html>Waitrose King's Cross train station </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 223,
+      "name": "Waitrose Stirling",
+      "lat": "56.11357",
+      "lon": "-3.93288",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/620.html>Waitrose Stirling</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 224,
+      "name": "Waitrose North Walsham",
+      "lat": "52.82822",
+      "lon": "1.3655",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/622.html>Waitrose North Walsham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 225,
+      "name": "Waitrose Keele North Services",
+      "lat": "52.99325",
+      "lon": "-2.28984",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/623.html>Waitrose Keele North Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 226,
+      "name": "Waitrose Aylesbury",
+      "lat": "51.81496",
+      "lon": "-0.80824",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/625.html>Waitrose Aylesbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 227,
+      "name": "Waitrose Milngavie  ",
+      "lat": "55.93402",
+      "lon": "-4.31484",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/630.html>Waitrose Milngavie  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 228,
+      "name": "Waitrose Ipswich",
+      "lat": "52.03374",
+      "lon": "1.20436",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/632.html>Waitrose Ipswich</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 229,
+      "name": "Waitrose Highbury Corner",
+      "lat": "51.5467",
+      "lon": "-0.10384",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/637.html>Waitrose Highbury Corner</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 230,
+      "name": "Waitrose Muswell Hill",
+      "lat": "51.59159",
+      "lon": "-0.14242",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/639.html>Waitrose Muswell Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 231,
+      "name": "Waitrose Knightsbridge",
+      "lat": "51.49931",
+      "lon": "-0.16495",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/641.html>Waitrose Knightsbridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 232,
+      "name": "Waitrose Solihull",
+      "lat": "52.41302",
+      "lon": "-1.78265",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/642.html>Waitrose Solihull</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 233,
+      "name": "Waitrose Sidcup",
+      "lat": "51.42524",
+      "lon": "0.10526",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/643.html>Waitrose Sidcup</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 234,
+      "name": "Waitrose Notting Hill Gate ",
+      "lat": "51.50886",
+      "lon": "-0.19776",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/644.html>Waitrose Notting Hill Gate </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 235,
+      "name": "Waitrose Newport Pagnell Services",
+      "lat": "52.08283",
+      "lon": "-0.74931",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/646.html>Waitrose Newport Pagnell Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 236,
+      "name": "Waitrose London Gateway Services",
+      "lat": "51.63384",
+      "lon": "-0.26672",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/647.html>Waitrose London Gateway Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 237,
+      "name": "Waitrose Truro",
+      "lat": "50.27323",
+      "lon": "-5.03486",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/648.html>Waitrose Truro</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 238,
+      "name": "Waitrose Cambridge",
+      "lat": "52.17036",
+      "lon": "0.10985",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/651.html>Waitrose Cambridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 239,
+      "name": "Waitrose Frimley",
+      "lat": "51.31441",
+      "lon": "-0.74412",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/652.html>Waitrose Frimley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 240,
+      "name": "Waitrose Hailsham",
+      "lat": "50.86394",
+      "lon": "0.25968",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/653.html>Waitrose Hailsham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 241,
+      "name": "Waitrose Hythe",
+      "lat": "51.07199",
+      "lon": "1.08899",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/654.html>Waitrose Hythe</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 242,
+      "name": "Waitrose Paddock Wood",
+      "lat": "51.1816",
+      "lon": "0.3909",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/655.html>Waitrose Paddock Wood</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 243,
+      "name": "Waitrose Saltash",
+      "lat": "50.42166",
+      "lon": "-4.23394",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/656.html>Waitrose Saltash</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 244,
+      "name": "Waitrose Sidmouth",
+      "lat": "50.70007",
+      "lon": "-3.24427",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/657.html>Waitrose Sidmouth</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 245,
+      "name": "Waitrose Sudbury",
+      "lat": "52.03707",
+      "lon": "0.7318",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/658.html>Waitrose Sudbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 246,
+      "name": "Waitrose Thatcham",
+      "lat": "51.40265",
+      "lon": "-1.25597",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/659.html>Waitrose Thatcham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 247,
+      "name": "Waitrose Twickenham",
+      "lat": "51.4483",
+      "lon": "-0.32879",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/660.html>Waitrose Twickenham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 248,
+      "name": "Waitrose Worcester Park",
+      "lat": "51.37819",
+      "lon": "-0.24354",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/661.html>Waitrose Worcester Park</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 249,
+      "name": "Waitrose Wymondham",
+      "lat": "52.57918",
+      "lon": "1.13637",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/662.html>Waitrose Wymondham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 250,
+      "name": "Waitrose Cheltenham",
+      "lat": "51.90228",
+      "lon": "-2.0841",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/663.html>Waitrose Cheltenham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 251,
+      "name": "Waitrose Canary Wharf",
+      "lat": "51.50471",
+      "lon": "-0.01726",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/664.html>Waitrose Canary Wharf</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 252,
+      "name": "Waitrose Belgravia",
+      "lat": "51.49915",
+      "lon": "-0.15664",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/665.html>Waitrose Belgravia</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 253,
+      "name": "Waitrose Tonbridge",
+      "lat": "51.19423",
+      "lon": "0.27622",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/667.html>Waitrose Tonbridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 254,
+      "name": "Waitrose Chandler's Ford",
+      "lat": "50.98693",
+      "lon": "-1.37321",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/668.html>Waitrose Chandler's Ford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 255,
+      "name": "Waitrose Portishead",
+      "lat": "51.48557",
+      "lon": "-2.76368",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/669.html>Waitrose Portishead</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 256,
+      "name": "Waitrose Mill Hill",
+      "lat": "51.6063",
+      "lon": "-0.2097",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/670.html>Waitrose Mill Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 257,
+      "name": "Waitrose Romsey",
+      "lat": "50.99069",
+      "lon": "-1.49614",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/671.html>Waitrose Romsey</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 258,
+      "name": "Waitrose Droitwich",
+      "lat": "52.2689",
+      "lon": "-2.14532",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/672.html>Waitrose Droitwich</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 259,
+      "name": "Waitrose Wandsworth",
+      "lat": "51.45427",
+      "lon": "-0.1938",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/673.html>Waitrose Wandsworth</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 260,
+      "name": "Waitrose Newmarket",
+      "lat": "52.2471",
+      "lon": "0.4074",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/674.html>Waitrose Newmarket</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 261,
+      "name": "Waitrose Wallingford",
+      "lat": "51.60077",
+      "lon": "-1.12561",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/675.html>Waitrose Wallingford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 262,
+      "name": "Waitrose Newbury",
+      "lat": "51.4073",
+      "lon": "-1.3292",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/676.html>Waitrose Newbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 263,
+      "name": "Waitrose Sanderstead",
+      "lat": "51.33235",
+      "lon": "-0.07548",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/677.html>Waitrose Sanderstead</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 264,
+      "name": "Waitrose Kensington",
+      "lat": "51.4991",
+      "lon": "-0.1976",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/678.html>Waitrose Kensington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 265,
+      "name": "Waitrose Sandbach",
+      "lat": "53.14271",
+      "lon": "-2.36349",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/680.html>Waitrose Sandbach</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 266,
+      "name": "Waitrose Fulham",
+      "lat": "51.48031",
+      "lon": "-0.19948",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/681.html>Waitrose Fulham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 267,
+      "name": "Waitrose Towcester",
+      "lat": "52.1301",
+      "lon": "-0.9894",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/682.html>Waitrose Towcester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 268,
+      "name": "Waitrose Abergavenny",
+      "lat": "51.81828",
+      "lon": "-3.02827",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/683.html>Waitrose Abergavenny</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 269,
+      "name": "Waitrose Harrogate",
+      "lat": "53.99008",
+      "lon": "-1.53643",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/684.html>Waitrose Harrogate</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 270,
+      "name": "Waitrose Hitchin",
+      "lat": "51.9501",
+      "lon": "-0.2814",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/685.html>Waitrose Hitchin</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 271,
+      "name": "Waitrose Swaffham",
+      "lat": "52.65573",
+      "lon": "0.68407",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/686.html>Waitrose Swaffham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 272,
+      "name": "Waitrose Newport",
+      "lat": "52.76956",
+      "lon": "-2.37539",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/687.html>Waitrose Newport</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 273,
+      "name": "Waitrose Worthing",
+      "lat": "50.81377",
+      "lon": "-0.36765",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/689.html>Waitrose Worthing</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 274,
+      "name": "Waitrose Rushden",
+      "lat": "52.2991",
+      "lon": "-0.6188",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/690.html>Waitrose Rushden</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 275,
+      "name": "Waitrose Otley",
+      "lat": "53.9038",
+      "lon": "-1.6983",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/691.html>Waitrose Otley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 276,
+      "name": "Waitrose Farnham",
+      "lat": "51.2155",
+      "lon": "-0.80208",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/692.html>Waitrose Farnham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 277,
+      "name": "Waitrose Lincoln",
+      "lat": "53.2514",
+      "lon": "-0.52093",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/694.html>Waitrose Lincoln</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 278,
+      "name": "Waitrose Sheffield",
+      "lat": "53.37287",
+      "lon": "-1.4805",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/695.html>Waitrose Sheffield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 279,
+      "name": "Waitrose Wolverhampton",
+      "lat": "52.576",
+      "lon": "-2.1343",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/696.html>Waitrose Wolverhampton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 280,
+      "name": "Waitrose Willerby",
+      "lat": "53.76393",
+      "lon": "-0.45531",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/697.html>Waitrose Willerby</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 281,
+      "name": "Waitrose Rickmansworth",
+      "lat": "51.641",
+      "lon": "-0.4704",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/698.html>Waitrose Rickmansworth</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 282,
+      "name": "Waitrose Lichfield",
+      "lat": "52.6752",
+      "lon": "-1.8433",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/699.html>Waitrose Lichfield</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 283,
+      "name": "Waitrose Worcester",
+      "lat": "52.18266",
+      "lon": "-2.1955",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/700.html>Waitrose Worcester</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 284,
+      "name": "Waitrose Warminster",
+      "lat": "51.20564",
+      "lon": "-2.1779",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/701.html>Waitrose Warminster</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 285,
+      "name": "Waitrose Exeter",
+      "lat": "50.7244",
+      "lon": "-3.51401",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/702.html>Waitrose Exeter</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 286,
+      "name": "Waitrose South bank tower ",
+      "lat": "51.50726",
+      "lon": "-0.10564",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/703.html>Waitrose South bank tower </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 287,
+      "name": "Waitrose Ashford",
+      "lat": "51.15566",
+      "lon": "0.85768",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/705.html>Waitrose Ashford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 288,
+      "name": "Waitrose Bracknell",
+      "lat": "51.41815",
+      "lon": "-0.75377",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/706.html>Waitrose Bracknell</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 289,
+      "name": "Waitrose Stratford-upon-Avon",
+      "lat": "52.18088",
+      "lon": "-1.70024",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/708.html>Waitrose Stratford-upon-Avon</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 290,
+      "name": "Waitrose Cheadle Hulme",
+      "lat": "53.37355",
+      "lon": "-2.18677",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/710.html>Waitrose Cheadle Hulme</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 291,
+      "name": "Waitrose Wilmslow",
+      "lat": "53.3283",
+      "lon": "-2.2294",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/711.html>Waitrose Wilmslow</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 292,
+      "name": "Waitrose Balham",
+      "lat": "51.445",
+      "lon": "-0.1518",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/719.html>Waitrose Balham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 293,
+      "name": "Waitrose Southampton",
+      "lat": "50.9246",
+      "lon": "-1.3945",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/720.html>Waitrose Southampton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 294,
+      "name": "Waitrose Preston, Walton-le-Dale",
+      "lat": "53.74882",
+      "lon": "-2.67769",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/721.html>Waitrose Preston, Walton-le-Dale</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 295,
+      "name": "Waitrose Ampthill",
+      "lat": "52.0325",
+      "lon": "-0.4932",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/722.html>Waitrose Ampthill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 296,
+      "name": "Waitrose Bedford",
+      "lat": "52.14429",
+      "lon": "-0.42014",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/725.html>Waitrose Bedford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 297,
+      "name": "Waitrose Wootton",
+      "lat": "52.21029",
+      "lon": "-0.89203",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/726.html>Waitrose Wootton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 298,
+      "name": "Waitrose Lewes",
+      "lat": "50.875",
+      "lon": "0.0143",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/727.html>Waitrose Lewes</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 299,
+      "name": "Waitrose Market Harborough",
+      "lat": "52.47548",
+      "lon": "-0.91595",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/728.html>Waitrose Market Harborough</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 300,
+      "name": "Waitrose Wells",
+      "lat": "51.21006",
+      "lon": "-2.65198",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/729.html>Waitrose Wells</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 301,
+      "name": "Waitrose Barbican",
+      "lat": "51.5218",
+      "lon": "-0.0923",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/732.html>Waitrose Barbican</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 302,
+      "name": "Waitrose Poundbury",
+      "lat": "50.71441",
+      "lon": "-2.46214",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/733.html>Waitrose Poundbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 303,
+      "name": "Waitrose Cowbridge",
+      "lat": "51.46101",
+      "lon": "-3.44753",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/735.html>Waitrose Cowbridge</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 304,
+      "name": "Waitrose Roehampton ",
+      "lat": "51.44958",
+      "lon": "-0.2396",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/736.html>Waitrose Roehampton </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 305,
+      "name": "Waitrose Battersea ",
+      "lat": "51.47869",
+      "lon": "-0.14921",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/737.html>Waitrose Battersea </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 306,
+      "name": "Waitrose Bagshot Road",
+      "lat": "51.40524",
+      "lon": "-0.74652",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/738.html>Waitrose Bagshot Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 307,
+      "name": "Waitrose Tubs Hill",
+      "lat": "51.27789",
+      "lon": "0.17979",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/739.html>Waitrose Tubs Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 308,
+      "name": "Waitrose Greenwich",
+      "lat": "51.48246",
+      "lon": "-0.01636",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/740.html>Waitrose Greenwich</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 309,
+      "name": "Waitrose East Grinstead",
+      "lat": "51.1235",
+      "lon": "-0.0109",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/741.html>Waitrose East Grinstead</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 310,
+      "name": "Waitrose Ipswich, Corn Exchange",
+      "lat": "52.05734",
+      "lon": "1.15247",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/743.html>Waitrose Ipswich, Corn Exchange</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 311,
+      "name": "Waitrose Kings Hill",
+      "lat": "51.27208",
+      "lon": "0.40292",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/744.html>Waitrose Kings Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 312,
+      "name": "Waitrose Buxton",
+      "lat": "53.2599",
+      "lon": "-1.911",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/748.html>Waitrose Buxton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 313,
+      "name": "Waitrose Formby",
+      "lat": "53.5565",
+      "lon": "-3.0581",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/749.html>Waitrose Formby</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 314,
+      "name": "Waitrose Comely Bank",
+      "lat": "55.95948",
+      "lon": "-3.21959",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/750.html>Waitrose Comely Bank</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 315,
+      "name": "Waitrose Chipping Sodbury",
+      "lat": "51.53997",
+      "lon": "-2.39625",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/751.html>Waitrose Chipping Sodbury</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 316,
+      "name": "Waitrose Oakgrove, Milton Keynes",
+      "lat": "52.03807",
+      "lon": "-0.71344",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/752.html>Waitrose Oakgrove, Milton Keynes</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 317,
+      "name": "Waitrose St Katharine Docks",
+      "lat": "51.50716",
+      "lon": "-0.06788",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/753.html>Waitrose St Katharine Docks</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 318,
+      "name": "Waitrose Christchurch",
+      "lat": "50.73651",
+      "lon": "-1.77933",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/754.html>Waitrose Christchurch</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 319,
+      "name": "Waitrose Bayswater",
+      "lat": "51.51685",
+      "lon": "-0.18741",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/756.html>Waitrose Bayswater</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 320,
+      "name": "Waitrose Eastbourne",
+      "lat": "50.7728",
+      "lon": "0.2677",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/757.html>Waitrose Eastbourne</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 321,
+      "name": "Waitrose Oundle",
+      "lat": "52.48435",
+      "lon": "-0.4641",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/758.html>Waitrose Oundle</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 322,
+      "name": "Waitrose Northwich",
+      "lat": "53.25906",
+      "lon": "-2.51421",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/759.html>Waitrose Northwich</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 323,
+      "name": "Waitrose Chiswick",
+      "lat": "51.493",
+      "lon": "-0.2622",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/760.html>Waitrose Chiswick</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 324,
+      "name": "Waitrose Morningside",
+      "lat": "55.9294",
+      "lon": "-3.2093",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/761.html>Waitrose Morningside</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 325,
+      "name": "Waitrose Gretna Green Services",
+      "lat": "55.0079",
+      "lon": "-3.0837",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/762.html>Waitrose Gretna Green Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 326,
+      "name": "Waitrose West Ealing",
+      "lat": "51.51321",
+      "lon": "-0.32005",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/764.html>Waitrose West Ealing</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 327,
+      "name": "Waitrose Hersham",
+      "lat": "51.3653",
+      "lon": "-0.3986",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/765.html>Waitrose Hersham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 328,
+      "name": "Waitrose Parkstone",
+      "lat": "50.7287",
+      "lon": "-1.9399",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/766.html>Waitrose Parkstone</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 329,
+      "name": "Waitrose Clapham Junction",
+      "lat": "51.4622",
+      "lon": "-0.1678",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/767.html>Waitrose Clapham Junction</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 330,
+      "name": "Waitrose Edgware Road",
+      "lat": "51.51739",
+      "lon": "-0.16581",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/768.html>Waitrose Edgware Road</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 331,
+      "name": "Waitrose Buckingham",
+      "lat": "52.00071",
+      "lon": "-0.98544",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/769.html>Waitrose Buckingham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 332,
+      "name": "Waitrose Helensburgh",
+      "lat": "55.99377",
+      "lon": "-4.70382",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/771.html>Waitrose Helensburgh</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 333,
+      "name": "Waitrose Windsor",
+      "lat": "51.48202",
+      "lon": "-0.61033",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/772.html>Waitrose Windsor</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 334,
+      "name": "Waitrose Monument",
+      "lat": "51.51014",
+      "lon": "-0.08666",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/773.html>Waitrose Monument</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 335,
+      "name": "Waitrose Islington",
+      "lat": "51.53405",
+      "lon": "-0.10756",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/780.html>Waitrose Islington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 336,
+      "name": "Waitrose John Lewis Watford",
+      "lat": "51.65467",
+      "lon": "-0.3922",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/781.html>Waitrose John Lewis Watford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 337,
+      "name": "Waitrose Hexham",
+      "lat": "54.9731",
+      "lon": "-2.0973",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/782.html>Waitrose Hexham</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 338,
+      "name": "Waitrose Victoria Street",
+      "lat": "51.49766",
+      "lon": "-0.1375",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/783.html>Waitrose Victoria Street</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 339,
+      "name": "Waitrose Vauxhall",
+      "lat": "51.48486",
+      "lon": "-0.12411",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/789.html>Waitrose Vauxhall</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 340,
+      "name": "Waitrose Harborne",
+      "lat": "52.4584",
+      "lon": "-1.9498",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/796.html>Waitrose Harborne</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 341,
+      "name": "Waitrose Brackley",
+      "lat": "52.027",
+      "lon": "-1.15172",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/797.html>Waitrose Brackley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 342,
+      "name": "Waitrose Lymington",
+      "lat": "50.7572",
+      "lon": "-1.5507",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/798.html>Waitrose Lymington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 343,
+      "name": "Waitrose Sandhurst ",
+      "lat": "51.3382",
+      "lon": "-0.7768",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/799.html>Waitrose Sandhurst </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 344,
+      "name": "Waitrose Harts Head Moor West Services ",
+      "lat": "53.71158",
+      "lon": "-1.747",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/800.html>Waitrose Harts Head Moor West Services </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 345,
+      "name": "Waitrose Horley",
+      "lat": "51.18049",
+      "lon": "-0.16336",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/802.html>Waitrose Horley</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 346,
+      "name": "Waitrose Charnock Richard North Services ",
+      "lat": "53.6298",
+      "lon": "-2.69281",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/803.html>Waitrose Charnock Richard North Services </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 347,
+      "name": "Waitrose Wimborne",
+      "lat": "50.80031",
+      "lon": "-1.9822",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/805.html>Waitrose Wimborne</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 348,
+      "name": "Waitrose Headington",
+      "lat": "51.75889",
+      "lon": "-1.21437",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/806.html>Waitrose Headington</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 349,
+      "name": "Waitrose Guildford",
+      "lat": "51.25659",
+      "lon": "-0.59439",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/808.html>Waitrose Guildford</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 350,
+      "name": "Waitrose Michael Wood",
+      "lat": "51.65855",
+      "lon": "-2.42329",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/811.html>Waitrose Michael Wood</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 351,
+      "name": "Waitrose Membury North Services",
+      "lat": "51.48406",
+      "lon": "-1.55839",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/812.html>Waitrose Membury North Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 352,
+      "name": "Waitrose Michealwood South Services ",
+      "lat": "51.65575",
+      "lon": "-2.43257",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/813.html>Waitrose Michealwood South Services </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 353,
+      "name": "Waitrose Woodall South Services ",
+      "lat": "53.31424",
+      "lon": "-1.27859",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/814.html>Waitrose Woodall South Services </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 354,
+      "name": "Waitrose John Lewis Southampton",
+      "lat": "50.90419",
+      "lon": "-1.40796",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/815.html>Waitrose John Lewis Southampton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 355,
+      "name": "Waitrose East Putney",
+      "lat": "51.45956",
+      "lon": "-0.21183",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/820.html>Waitrose East Putney</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 356,
+      "name": "Waitrose Leeds, Meanwood",
+      "lat": "53.82814",
+      "lon": "-1.56753",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/828.html>Waitrose Leeds, Meanwood</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 357,
+      "name": "Waitrose Nottingham, Trinity Square",
+      "lat": "52.95569",
+      "lon": "-1.14845",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/833.html>Waitrose Nottingham, Trinity Square</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 358,
+      "name": "Waitrose Clifton",
+      "lat": "51.45689",
+      "lon": "-2.60821",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/834.html>Waitrose Clifton</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 359,
+      "name": "Waitrose Crouch End",
+      "lat": "51.57899",
+      "lon": "-0.12409",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/835.html>Waitrose Crouch End</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 360,
+      "name": "Waitrose Oxted",
+      "lat": "51.25901",
+      "lon": "-0.00515",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/838.html>Waitrose Oxted</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 361,
+      "name": "Waitrose Chester  ",
+      "lat": "53.19316",
+      "lon": "-2.87799",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/842.html>Waitrose Chester  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 362,
+      "name": "Waitrose Raynes Park",
+      "lat": "51.40863",
+      "lon": "-0.2335",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/846.html>Waitrose Raynes Park</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 363,
+      "name": "Waitrose Oadby",
+      "lat": "52.59919",
+      "lon": "-1.07958",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/847.html>Waitrose Oadby</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 364,
+      "name": "Waitrose Leatherhead",
+      "lat": "51.29453",
+      "lon": "-0.32924",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/859.html>Waitrose Leatherhead</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 365,
+      "name": "Waitrose Bressenden Place",
+      "lat": "51.49801",
+      "lon": "-0.14281",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/860.html>Waitrose Bressenden Place</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 366,
+      "name": "Waitrose Faringdon  ",
+      "lat": "51.65017",
+      "lon": "-1.57484",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/871.html>Waitrose Faringdon  </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 367,
+      "name": "Waitrose Haywards Heath",
+      "lat": "51.0057",
+      "lon": "-0.1042",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/873.html>Waitrose Haywards Heath</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 368,
+      "name": "Waitrose Banbury   ",
+      "lat": "52.06892",
+      "lon": "-1.3403",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/874.html>Waitrose Banbury   </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 369,
+      "name": "Waitrose Finchley Central ",
+      "lat": "51.60037",
+      "lon": "-0.19458",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/876.html>Waitrose Finchley Central </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 370,
+      "name": "Waitrose Bromsgrove ",
+      "lat": "52.33319",
+      "lon": "-2.06439",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/877.html>Waitrose Bromsgrove </a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 371,
+      "name": "Waitrose Winchmore Hill",
+      "lat": "51.63524",
+      "lon": "-0.0957",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/878.html>Waitrose Winchmore Hill</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 372,
+      "name": "Waitrose Gordano Services",
+      "lat": "51.47751",
+      "lon": "-2.70793",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/909.html>Waitrose Gordano Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 373,
+      "name": "Waitrose Birchanger Green Services",
+      "lat": "51.8716",
+      "lon": "0.19492",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/924.html>Waitrose Birchanger Green Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 374,
+      "name": "Waitrose Fleet North Services",
+      "lat": "51.29611",
+      "lon": "-0.8557",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/943.html>Waitrose Fleet North Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 375,
+      "name": "Waitrose Leicester Forest East Services",
+      "lat": "52.61997",
+      "lon": "-1.20786",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/947.html>Waitrose Leicester Forest East Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 376,
+      "name": "Waitrose Warwick South Services",
+      "lat": "52.21733",
+      "lon": "-1.50491",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/949.html>Waitrose Warwick South Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 377,
+      "name": "Waitrose Peartree Services",
+      "lat": "51.79412",
+      "lon": "-1.28416",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/962.html>Waitrose Peartree Services</a>",
+      "isRegion": false,
+      "score": ""
+    },
+    {
+      "id": 378,
+      "name": "Waitrose Cardiff Gate Services",
+      "lat": "51.53997",
+      "lon": "-3.13775",
+      "desc": "<a href=https://www.waitrose.com/content/waitrose/en/bf_home/bf/974.html>Waitrose Cardiff Gate Services</a>",
+      "isRegion": false,
+      "score": ""
+    }
+  ]
+}

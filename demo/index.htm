@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Simple OS Map using Leaflet</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    
+    <!-- My Map App -->
+    <link rel="stylesheet" href="./css/main.css" />
+    <script src="./javascript/main.js" ></script>
+    
+    <!-- OS Map Support-->
+    <script src="./plugins/leaflet-bing-layer.js"></script>
+    
+    <!-- Location -->
+    <link rel="stylesheet" href="plugins/L.Control.Locate.min.css" />
+    <script src="plugins/L.Control.Locate.min.js" charset="utf-8"></script>
+
+    <!-- Grid Ref conversions  OS Grid Ref <- -> LonLat  -->
+    <script language="javascript" src="./plugins/geotools2.js"></script>
+
+    <!-- Prunecluster -->
+    <script language="javascript" src="./plugins/leaflet-PruneCluster.js"></script>
+    <link href='./plugins/leaflet-PruneCluster.css' rel='stylesheet' />
+
+    <!-- Distance Measurement -->
+    <script language="javascript" src="./plugins/leaflet.measure.js"></script>
+    <link href='./plugins/leaflet.measure.css' rel='stylesheet' />
+
+
+    
+  </head>
+  <body onload="init()">
+    <div id="map">
+      <div id="divPlaces">
+        <select id="ddlPlaces" onclick="event.stopPropagation();" ondblclick="event.stopPropagation();" onchange="LoadPlacesMarkers();">
+            <option value="0">[Select Places List]</option>
+            <!-- Remaining Places List are populated in main.js, and are sourced from  ./places/index.json -->
+        </select>
+      </div>
+    
+      <input id="cmdSearch" title="Search" type="button" value="?" ondblclick="event.stopPropagation();" onclick="event.stopPropagation(); hidePopup(); ToggleSearchBox();" />
+      <input id="txtSearch" class="invisible" title="Place Name, Grid Ref, or Lat Lon." ondblclick="event.stopPropagation();" onclick="event.stopPropagation();"  onkeyup="if(event.keyCode == 13) DoSearch();" />
+      <input id="cmdDoSearch" class="invisible" title="Search" type="button" value="Go" ondblclick="event.stopPropagation();" onclick="event.stopPropagation(); DoSearch();" />
+
+
+
+    <!-- Popup displays location info when map clicked -->
+    <div id="popup" onclick="event.stopPropagation(); hidePopup()" ondblclick="event.stopPropagation();">
+      <table id="tblPopup">
+          <tr>
+              <td id="tdLonLat"></td>
+              <td>
+                  &nbsp;&nbsp;
+              </td>
+              <td id="tdGridRef"></td>
+          </tr>
+      </table>
+    </div>
+    <!-- 'Point' appears top left of popup to appear like pointer to mouse click  -->
+    <div id="point">
+        <img src="images/Point.png" />
+    </div>
+
+
+
+    </div>
+
+
+
+    <div id="divSearchResults" class="invisible" style="z-index:9997" ondblclick="event.stopPropagation();" onlick="event.stopPropagation();">
+      <table id="tblSearchResults" width="100%"></table>
+    </div>    
+
+
+  </div>
+
+  </body>
+</html>
