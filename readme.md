@@ -14,3 +14,5 @@ Features:
 * Ruler for measuring routes
 
 [View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm) - not Full Screen!
+
+https://github.com/BertyBasset/SimpleOsMap/blob/main/ScreenShot.png
