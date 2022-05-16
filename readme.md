@@ -1,11 +1,9 @@
 # Simple Leaflet OS Map
 
-
-*Fix Some images 
-
 Uses Bing plugin for Leaflet to display UK Ordnance Survey mapping 
 
 Features:
+* Full Screen Mapping
 * 1:50,000 and 1:25,00 OS mapping
 * Autolocation with position tracking
 * Ordnance Survey place name gazeteer search
@@ -14,7 +12,4 @@ Features:
 * Grid Ref and Lon, Lat extract to clipboard
 * Multiple configurable Place Name Gazeteers
 
-[View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm)
-
-
-
+[View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm) - not Full Screen!
