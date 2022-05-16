@@ -1,0 +1,119 @@
+html, body {
+    margin:     0pt;
+    height:     100% 
+}
+
+#map {
+    height:     100%; 
+    width:      100%
+}
+
+/* The location         */
+.autolocate {
+    background-color:blueviolet;
+    background: url(../images/autolocate.png);
+    width:      30px;
+    height:     30px;
+    display:    block;
+    position:   relative;
+    top:        0px;
+    left:       px
+}
+
+/* Gazeteer Search Controls */
+#cmdSearch {
+    background-color:blueviolet;
+    color:yellow;    
+    font-size:  180%;
+    position:   absolute;
+    left:       11px;
+    top:        50px;
+    width:      32px;
+    height:     32px;
+    z-index:    9998;
+    cursor:     pointer
+}
+
+#txtSearch {
+    background-color:khaki;
+    font-size:  150%;
+    position:   absolute;
+    top:        53px;
+    left:       47px;
+    z-index:    9998;
+    width:      250px
+    
+}
+
+#cmdDoSearch {
+    background-color:blueviolet;
+    color:yellow;
+    position:   absolute;
+    top:        50px;
+    left:       308px;
+    z-index:    9998;
+    width:      32px;
+    height:     32px;
+    cursor:     pointer
+}
+
+/* Visibiity Classes */
+.visible {
+    visibility: visible;
+    display: inline
+}
+
+.invisible {
+    visibility: hidden;
+    display: none
+}
+
+#divSearchResults {
+    position: absolute;
+    top: 48px;
+    left: 45px;
+    float: left;
+    background-color:khaki;
+    border-style: solid;
+    border-width: 2px;
+    opacity: .9;
+    font-size:8px;
+    max-width:700px;
+    max-height: 400px;
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-y: scroll;
+}
+
+#popup {
+    font-size:20px;
+    position:absolute;
+    background-color:khaki;
+    border-style:solid;
+    border-width:1px;
+    opacity:1;
+    visibility:hidden;
+    font-size:smaller;
+    max-width:500px;
+}
+#point {
+    position:absolute;
+    opacity:1;
+    visibility:hidden;
+    background-color:transparent
+}
+
+#divPlaces {
+    position:   relative;
+    left:       47px;
+    top:        13px;
+    z-index:    10000;    
+}
+select {
+    border-color:black;
+    border-radius:3px;
+    width:      258px;
+    font-size:20px;
+    background-color:khaki;
+    border-width:2px
+}
