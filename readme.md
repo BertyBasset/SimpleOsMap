@@ -10,7 +10,6 @@ Features:
 * OS Grid Ref Search
 * Lon, Lat Search
 * Grid Ref and Lon, Lat extract to clipboard
-* Multiple configurable Place Name Gazeteers
-. which are searchable 
+* Multiple searchable configurable Place Name Gazeteers
 
 [View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm) - not Full Screen!
