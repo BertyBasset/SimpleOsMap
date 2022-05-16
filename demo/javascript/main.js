@@ -5,8 +5,8 @@
 
 
 
-var API_KEY_BING = "Aqv51PgdNN4aM7Zz0JO77lnhWrrV2r8EwSPJjsD0jMLSqqI93NKUCcuRAr8oMdO8";                                  // Demo Bing Maps key attached to senagaj612@dakcans.com    Cheese1!
-var API_KEY_MAPBOX = "pk.eyJ1Ijoic2VuYWdhajYxMiIsImEiOiJjbDM5MDFiZW4wMnhlM2Nwamc2YTFkMHBoIn0.IRkEekqIaZ6QtxZKAYKA5A";   // Demo Mapbox key attached to senagaj612@dakcans.com    Cheese1!
+var API_KEY_BING = "Aqv51PgdNN4aM7Zz0JO77lnhWrrV2r8EwSPJjsD0jMLSqqI93NKUCcuRAr8oMdO8";                                  // Demo Bing Maps key - Please use your own outside of this demo
+var API_KEY_MAPBOX = "pk.eyJ1Ijoic2VuYWdhajYxMiIsImEiOiJjbDM5MDFiZW4wMnhlM2Nwamc2YTFkMHBoIn0.IRkEekqIaZ6QtxZKAYKA5A";   // Demo Mapbox key - Please use your own outside of this demo
 
 
 var map;
