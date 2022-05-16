@@ -11,5 +11,6 @@ Features:
 * Lon, Lat Search
 * Grid Ref and Lon, Lat extract to clipboard
 * Multiple searchable configurable Place Name Gazeteers
+* Ruler for measuring routes
 
 [View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm) - not Full Screen!
