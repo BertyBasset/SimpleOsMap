@@ -2,7 +2,7 @@
 
 Uses Bing plugin for Leaflet to display UK Ordnance Survey mapping 
 
-![Screenshot](https://github.com/BertyBasset/SimpleOsMap/blob/main/ScreenShot.png =x937)
+![Screenshot](https://github.com/BertyBasset/SimpleOsMap/blob/main/ScreenShot.png | width=937)
 
 Features:
 * Full Screen Mapping
