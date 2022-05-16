@@ -10,3 +10,5 @@ Features:
 * Lon, Lat Search
 * Grid Ref and Lon, Lat extract to clipboard
 * Multiple configurable Place Name Gazeteers
+
+[View Map Demo](https://raw.githubusercontent.com/BertyBasset/SimpleOsMap/main/demo/index.htm)
