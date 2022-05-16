@@ -1,17 +1,6 @@
 
-// 1. Deploy to Github
-// 2. Have Demo page on Githum, maybe with sacrifical app keys ??
-// 3. Write Up
-
-
-
-var API_KEY_BING = "Aqv51PgdNN4aM7Zz0JO77lnhWrrV2r8EwSPJjsD0jMLSqqI93NKUCcuRAr8oMdO8";                                  // Demo Bing Maps key attached to senagaj612@dakcans.com    Cheese1!
-var API_KEY_MAPBOX = "pk.eyJ1Ijoic2VuYWdhajYxMiIsImEiOiJjbDM5MDFiZW4wMnhlM2Nwamc2YTFkMHBoIn0.IRkEekqIaZ6QtxZKAYKA5A";   // Demo Mapbox key attached to senagaj612@dakcans.com    Cheese1!
-
-
-// Live API Keys
-//var API_KEY_BING = "AjrfR4dj95u50ECPKf2-tVQ3VuCZYNdE2MY0EQsbvIkMkbPtOM2p5dEFUk-qz7FW";                                    // Robin Live Key - don't make public
-//var API_KEY_MAPBOX = "pk.eyJ1IjoiYmVydHliYXNzZXQiLCJhIjoiY2l3M3J6Zng2MDAxMjJ5cDY3OGR4aWxtdiJ9.Bpd5wLT-J_jIQLAenzZliQ";    // Robin Live Key - don't make public
+var API_KEY_BING = "[REPLACE WITH YOUR BING MAPS API KEY]";
+var API_KEY_MAPBOX = "[REPLACE WITH YOUR MAPBOX API KEY]";
 
 var map;
 const MAX_SEARCH_RESULTS = 1000;
