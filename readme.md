@@ -1,5 +1,8 @@
 # Simple Leaflet OS Map
 
+
+*Fix Some images 
+
 Uses Bing plugin for Leaflet to display UK Ordnance Survey mapping 
 
 Features:
