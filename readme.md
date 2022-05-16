@@ -11,7 +11,7 @@ Features:
 * Grid Ref and Lon, Lat extract to clipboard
 * Multiple configurable Place Name Gazeteers
 
-
+[View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm)
 
 
 
