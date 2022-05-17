@@ -33,23 +33,6 @@
     
   </head>
   <body onload="init()">
-    <br />
-    <h2>&nbsp;&nbsp;Simple Leaflet Ordnance Survey Map Demo</h2>
-    <br />
-    &nbsp;&nbsp;&nbsp;This demo map is at the small size of 600x400 pixels rather than full screen.<br />
-    &nbsp;&nbsp;&nbsp;This is because it is using demo map API keys. 
-    <br /><br />
-    &nbsp;&nbsp;&nbsp;The version in the <a href="https://github.com/BertyBasset/SimpleOsMap/tree/main/src">src</a> folder is at full size, but you will have to obtain <br />
-    &nbsp;&nbsp;&nbsp;your own API keys from Bing and Mapbox and replace the placeholders in <i><a href='https://github.com/BertyBasset/SimpleOsMap/blob/main/src/javascript/main.js'>javascript.main.js</a></i>
-    <br /><br />
-    &nbsp;&nbsp;&nbsp;By default, Search uses the Ordnance Survey Gazeteer API. If a <i>Places List</i> has been selected,
-    <br />
-    &nbsp;&nbsp;&nbsp;then the search is within the selected dataset.
-    <br />
-    &nbsp;&nbsp;&nbsp;New places datasets may be added by adding a JSON file to the <i>places</i> folder. An entry<br />
-    &nbsp;&nbsp;&nbsp;for the new dataset should then be placed in <i>places/index.json</i>
-
-    <br /><br />
     <div id="map">
       <div id="divPlaces">
         <select id="ddlPlaces" onclick="event.stopPropagation();" ondblclick="event.stopPropagation();" onchange="LoadPlacesMarkers();">
@@ -90,8 +73,6 @@
     <div id="divSearchResults" class="invisible" style="z-index:9997" ondblclick="event.stopPropagation();" onlick="event.stopPropagation();">
       <table id="tblSearchResults" width="100%"></table>
     </div>    
-
-
 
 
   </div>
