@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <style>
+            body {
+            display: flex;
+            justify-content: center;
+            }
+
+            .container {
+            width: 800px;
+            }
+            h2 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 28px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+            p, ul { color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 18px; line-height: 24px; margin: 0 0 6px; text-align: justify; text-justify: inter-word; }
+        </style>
+    </head>
+    
+    <body>
+        <div class="container">
+            <h2>Leaflet OS Map Demo</h2>
+            <p>
+                This is a non full screen demo in order to minimise number of tiles downloaded from map providers. The version in the <a href="https://github.com/BertyBasset/SimpleOsMap/tree/main/src">Github src</a> folder will run full screen in a browser, but you will have to obtain your own API keys.
+            </p>
+            <iframe width="800px" height="400px" src="index.htm"></iframe>
+            <br />
+            <br />
+            <p>
+            Check out the following functionality:
+            </p>
+            <ul>
+                <li>Seamless zoom - OS data 1:25,000 at high zoom, OS 1:50,000 at mid zoom, MapBox data at low zoom.</li> 
+                <li>Autolocate button will zero in on your current location, and will track your movement if using a mobile phone</li>
+                <li>Configurable Place lists. You can add your own json places file to the places folder. Displays locations as cluster of markers.</li>
+                <li>Click map to show current location as lon, lat and a OS Grid Ref. These can be copied to the clipboard.</li>
+                <li>Search button.
+                    <ul>
+                        <li>If a <i>places list</i> has been selected, searches locations in that places list.</li>
+                        <li>If no places list has been selected, does one of three searches depending on search string:
+                            <ul>[lat],[lon]  e.g. <i>55.466,-3.515</i> does latlon search.</ul>
+                            <ul>[OS GridRef] e.g.<i>NY442917</i> does gridref search.</ul>
+                            <ul>Otherwise uses the Ordnance Survey place names gazeteer.</ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Measurment button. Allows lines an paths to be measured on the map.</li>
+
+
+            </ul>
+        </div>
+    </body>
+</html>
+    
+
