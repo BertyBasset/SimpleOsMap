@@ -1,4 +1,4 @@
-var API_KEY_BING = "Aqv51PgdNN4aM7Zz0JO77lnhWrrV2r8EwSPJjsD0jMLSqqI93NKUCcuRAr8oMdO8";                                  // Demo API Keys, please obtain your own
+var API_KEY_BING = "Aqv51PgdNN4aM7Zz0JO77lnhWrrV2r8EwSPJjsD0jMLSqqI93NKUCcuRAr8oMdO8";
 var API_KEY_MAPBOX = "pk.eyJ1Ijoic2VuYWdhajYxMiIsImEiOiJjbDM5MDFiZW4wMnhlM2Nwamc2YTFkMHBoIn0.IRkEekqIaZ6QtxZKAYKA5A";
 
 
@@ -195,7 +195,7 @@ function GotoLatLon(Lat, Lon, tooltip) {
         map.removeLayer(this);
     });
     marker.bindTooltip(tooltip);
-    marker.on('mouseover', showHideToolTip);
+    marker.on('mouseover', showHideTooltip);
 }
 
 function showHideTooltip() {
@@ -205,6 +205,7 @@ function showHideTooltip() {
     else
         mytooltip.setOpacity(0.9);
 }
+
 
 
 // Search gazeteer
@@ -338,6 +339,9 @@ function gazResultComparer(a, b) {
 
 // Append new row to table showing a single gazeteer search result
 function drawRow(rowData) {
+    rowData.title = rowData.title.replace("'", "&apos;");
+
+
     var row = document.getElementById("tblSearchResults").insertRow();
     var cell1 = row.insertCell();
     cell1.innerHTML = "<a href='#' style='font-size:150%;color:black' onclick='GotoLocation(" + rowData.easting + "," + rowData.northing + ",`" + rowData.title + "`);'>" + rowData.title + "</a>";
