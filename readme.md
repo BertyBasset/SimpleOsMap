@@ -17,8 +17,7 @@ Features:
 * Multiple searchable configurable Place Name Gazeteers
 * Ruler for measuring routes
 
-[View Demo](https://bertybasset.github.io/SimpleOsMap/demo/index.htm) - not Full Screen!
-
+[View Demo](https://bertybasset.github.io/SimpleOsMap/demo/container.htm) - not Full Screen!
 
 
 
