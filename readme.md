@@ -7,7 +7,7 @@ Uses Bing plugin for Leaflet to display UK Ordnance Survey mapping
 
 Features:
 * Full Screen Mapping
-* Zoomable 1:50,000 and 1:25,00 OS mapping
+* Zoomable 1:50,000 and 1:25,000 OS mapping
 * Seamless transistion to MapBox maps at low zoom settings
 * Autolocation with position tracking
 * Ordnance Survey place name gazeteer search
