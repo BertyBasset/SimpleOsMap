@@ -2,7 +2,7 @@
   "name": "Simple OS Maps",
   "icons": [
     {
-      "src": "icons/icon-192d.png",
+      "src": "./icons/icon-192d.png",
       "sizes": "192x192",
       "type": "image/png"
     },
